@@ -41,6 +41,8 @@ ls
 编译成功后，所有文件都在release目录下。你可以把release目录中的文件拷贝到你的服务器任意目录下。
 
 注意：
-1. release目录下的data.json是数据文件，清理release目录时注意保留本文件。
-2. data.json目录必须可读可写，否则无法保存数据。
+ *. release目录下的data.json是数据文件，清理release目录时注意保留本文件。
+ *. data.json目录必须可读可写，否则无法保存数据。
+ *. 默认提交新链接的密码：zhimakaimenba, 修改位置：src/www/upload.php
+ *. demo地址：http://blog.xiaoheqingting.com/tools/fav/
 
