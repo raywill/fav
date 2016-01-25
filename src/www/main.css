@@ -1,0 +1,15 @@
+html {
+  font-family: '微软雅黑', 'Yahei', sans-serif;
+}
+
+body {
+  font-size: 13px;
+  line-height: 20px;
+  text-align: left;
+}
+.am-img-responsive {
+    width: 100%;
+}
+.am-header {
+  margin-bottom:30px;
+}

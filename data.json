@@ -1,0 +1,82 @@
+[
+    {
+        "title": "React-China中文社区",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/nature\/",
+        "href": "http:\/\/react-china.org\/top",
+        "brief": "暂时水平还比较低，但还是可以看看",
+        "tags": ""
+    },
+    {
+        "title": "Amazeui-React",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/food\/",
+        "href": "http:\/\/amazeui.org\/react\/getting-started",
+        "brief": "实践证明一个比较适合国人口味的React组件库",
+        "tags": ""
+    },
+    {
+        "title": "Material Design",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/city\/",
+        "href": "https:\/\/www.google.com\/design\/spec\/material-design\/introduction.html",
+        "brief": "Greate design guidelines for designers",
+        "tags": ""
+    },
+    {
+        "title": "lodash",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/sports\/",
+        "href": "https:\/\/lodash.com\/docs",
+        "brief": "A better underscore js library",
+        "tags": ""
+    },
+    {
+        "title": "React document",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/nature\/",
+        "href": "https:\/\/facebook.github.io\/react\/docs\/getting-started.html",
+        "brief": "Read the f*king doc is the best way to learn",
+        "tags": ""
+    },
+    {
+        "title": "React-Webpack-Cookbook",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/technics\/",
+        "href": "https:\/\/christianalfoni.github.io\/react-webpack-cookbook\/Getting-started.html",
+        "brief": "多种打包React的方法，对线上部署有很强的指导意义",
+        "tags": ""
+    },
+    {
+        "title": "Swoole",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/cats\/",
+        "href": "http:\/\/www.swoole.com\/",
+        "brief": "PHP语言的异步、并行、高性能网络通信框架，支持异步多线程服务器，AsyncTask，消息队列，毫秒定时器，异步文件读写等",
+        "tags": ""
+    },
+    {
+        "title": "头像识别",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/food\/",
+        "href": "http:\/\/www.epooll.com\/archives\/811\/",
+        "brief": "有趣的贴胡子程序，准确率达到98% ",
+        "tags": ""
+    },
+    {
+        "title": "Medium",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/nature\/",
+        "href": "http:\/\/medium.com",
+        "brief": "一个有逼格的英文阅读社区",
+        "tags": ""
+    },
+    {
+        "title": "掘金杂志",
+        "subtitle": "",
+        "thumb": "http:\/\/lorempixel.com\/300\/200\/cats\/",
+        "href": "http:\/\/gold.xitu.io\/",
+        "brief": "移动端开发杂文集",
+        "tags": ""
+    }
+]
