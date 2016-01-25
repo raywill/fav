@@ -1,6 +1,6 @@
 # My Collation
 
-This is an example React project that uses [AmazeUI].
+This is an example React project that uses [AmazeUI]， [preview here](http://blog.xiaoheqingting.com/tools/fav/).
 ## Requirements
  * php 5.3+
  * node
@@ -21,6 +21,7 @@ Then all files are ready in fav/release folder. you can copy it to your server
 
 
 # 收藏夹
+学习React做的一个小收藏夹，适合个人收藏自己喜欢的站点。 [效果预览](http://blog.xiaoheqingting.com/tools/fav/).
 ## 环境要求
 
  * php 5.3+
@@ -45,5 +46,4 @@ ls
  * release目录下的data.json是数据文件，清理release目录时注意保留本文件。
  * data.json目录必须可读可写，否则无法保存数据。
  * 默认提交新链接的密码：zhimakaimenba, 修改位置：src/www/upload.php
- * demo地址：http://blog.xiaoheqingting.com/tools/fav/
 
