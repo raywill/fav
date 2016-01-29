@@ -1,6 +1,6 @@
 # My Collation
 
-This is an example React project that uses [AmazeUI]， [preview here](http://blog.xiaoheqingting.com/tools/fav/).
+This is an example React project that uses [AmazeUI]， [preview here](http://reactshare.cn/).
 ## Requirements
  * php 5.3+
  * node
@@ -21,7 +21,7 @@ Then all files are ready in fav/release folder. you can copy it to your server
 
 
 # 收藏夹
-学习React做的一个小收藏夹，适合个人收藏自己喜欢的站点。 [效果预览](http://blog.xiaoheqingting.com/tools/fav/).
+学习React做的一个小收藏夹，适合个人收藏自己喜欢的站点。 [效果预览](http://reactshare.cn/).
 ## 环境要求
 
  * php 5.3+
